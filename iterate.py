@@ -2,6 +2,7 @@
 favorite_foods = ["Sushi", "Pizza", "Salmon", "Tamales dulces", "Yuca fries", "Apple pie", "Katsu curry", "Shrimp and grits", "Waffles"]
 for x in favorite_foods:
   print("I really love " + x)
+  print("How much do you like " + x)
 
 
 # 2. Now for each food in that list, let's be specific about how MUCH Alex likes them.
